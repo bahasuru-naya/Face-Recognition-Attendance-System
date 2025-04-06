@@ -1,0 +1,16 @@
+{
+    "attendance_time": {
+        "start_time": "8:0",
+        "end_time": "22:0"
+    },
+    "attendance_days": {
+        "Sunday": true,
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "automatic_training": false
+}

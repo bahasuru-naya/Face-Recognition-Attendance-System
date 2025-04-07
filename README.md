@@ -36,5 +36,15 @@ To run the project, execute the following command in your terminal:
 python face_app.py  
  ```
 
+## System Configuration
+All configuration parameters for the Face Recognition Attendance System are managed in the `settings.py` file, which is located in the `/settings` directory:
+This file contains important settings such as:
+
+- Directory paths for storing images and attendance logs
+- Model save locations
+- Other customizable parameters related to preprocessing and training
+
+Feel free to modify this file to suit your deployment environment. Make sure to restart the application after making changes to ensure updated configurations take effect.
+
 
 

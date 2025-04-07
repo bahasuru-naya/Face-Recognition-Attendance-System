@@ -20,11 +20,11 @@ A real-time, intelligent face recognition-based attendance system built using Py
 - Minimum 4GB RAM (8GB recommended)
 
 ### Software
-- Python 3.9
+- Python 3.9.10
 - Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
 
 ## Installation
-### 1. Create new python project and virtual environment in your IDE (use Python 3.9)
+### 1. Create new python project and virtual environment in your IDE (use Python 3.9.10)
 ### 2. Download or clone repository into your project
 ### 3. Go to the project directory in terminal then run following command to install dependencies in project
 ```
